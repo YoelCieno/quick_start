@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@featherscloud/pinion": "^0.5.5"
+  }
+}
