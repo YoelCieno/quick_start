@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "@featherscloud/pinion": "^0.5.5"
+    "@featherscloud/pinion": "^0.5.5",
+    "@types/lodash.upperfirst": "^4.3.9",
+    "lodash.upperfirst": "^4.3.1"
   }
 }
