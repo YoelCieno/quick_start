@@ -13,7 +13,7 @@ interface Context extends PinionContext {
 }
 
 // The template uses Context variables.
-const docs = ({ name, description }: Context) => {
+const docs = ({ name, description }: Context): string => {
   return `# ${name}
 
 > ${description}
